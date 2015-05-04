@@ -10,7 +10,7 @@ exports.config = {
   },
 
   chromeOnly: true,
-
+  chromeDriver: 'C:/Users/Iris Ng/AppData/Roaming/npm/node_modules/protractor/selenium/chromedriver.exe',
   baseUrl: 'http://localhost:8000/',
 
   framework: 'jasmine',
